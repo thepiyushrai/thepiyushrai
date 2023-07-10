@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thepiyushrai
 - 👀 I’m interested in ...coding Android, Spring, Java, Kotlin
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Spring and react
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... thepiyushrai@gmail.com
 
 <!---
