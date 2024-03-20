@@ -1,7 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Piyush Rai
 ======================================================================================================================================
 <h4> Java developer || Android Developer|| Backend Developer</h4>
-- 👋 Hi, I’m @thepiyushrai_ - 👀 I’m interested in ...coding Android, Spring, Java, Kotlin,React,Web3.0 - 🌱 I’m currently learning ... Spring and react - 💞️ I’m looking to collaborate on ... - 📫 How to reach me ... thepiyushrai@gmail.com
+- 👋 Hi, I’m @thepiyushrai/
+- 👀 I’m interested in ...coding Android, Spring, Java, Kotlin,React,Web3.0/
+- 🌱 I’m currently learning ... Spring and Generative AI/
+- 💞️ I’m looking to collaborate on ...Generative AI, Android ap development/
+- 📫 How to reach me ... thepiyushrai@gmail.com
 
 
 <h3 align="left">Languages:</h3>
